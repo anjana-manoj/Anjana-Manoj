@@ -17,6 +17,6 @@
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" with="20" height="20">](https://www.instagram.com/usampkvelleri/)
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg " with="20" height="20">](https://www.facebook.com/usampk.velleri)
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" with="20" height="20">](https://twitter.com/USAMABINJAFARP1)
-[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](mailto:usamabinjafarpk335@gmail.com)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](mailto:anjanamanoj117@gmail.com)
 
 
